@@ -6,8 +6,13 @@ __pycache__/
 .pytest_cache/
 
 # Runtime artifacts
-reports/
-screenshots/
+# Ignore everything inside, except .gitkeep
+reports/*
+!reports/.gitkeep
+
+screenshots/*
+!screenshots/.gitkeep
+
 
 # IDE/editor junk
 .idea/
