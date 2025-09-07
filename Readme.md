@@ -1,6 +1,11 @@
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-Framework-orange?logo=pytest&logoColor=white)
+
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" /></a>
+  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium&logoColor=white" /></a>
+  <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/Pytest-Framework-orange?logo=pytest&logoColor=white" /></a>
+</p>
+
 
 
 # 🚀 Selenium-Pytest Automation Framework  
