@@ -1,0 +1,31 @@
+{
+  "data" :[
+    {"username": "rahulshettyacademy",
+      "password": "learning",
+      "device1": "iphone X",
+      "device2": "Blackberry" ,
+      "remove_device": "Blackberry",
+      "country": "IND",
+      "login_URL": "https://rahulshettyacademy.com/loginpagePractise/",
+      "Target_URL": "https://rahulshettyacademy.com/angularpractice/shop",
+      "Success_message": "Success!",
+      "dd_option": "consult"},
+    {"username": "rahulshettyacademy",
+      "password": "learning",
+      "device1": "Samsung Note 8",
+      "device2": "Nokia Edge",
+      "remove_device": "Nokia Edge",
+      "country": "IND",
+      "login_URL": "https://rahulshettyacademy.com/loginpagePractise/",
+      "Target_URL": "https://rahulshettyacademy.com/angularpractice/shop",
+      "Success_message": "Success!",
+      "dd_option": "consult"
+    }
+  ],
+  "fail_data" :[
+    {"username": "rahulshetty","password": "learning","login_URL": "https://rahulshettyacademy.com/loginpagePractise/", "Error_message": "Incorct","dd_option": "consult"},
+    {"username": "rahulshettyacademy","password": "learn","login_URL": "https://rahulshettyacademy.com/loginpagePractise/", "Error_message":"Incorct","dd_option": "consult"}
+
+
+  ]
+}

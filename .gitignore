@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Runtime artifacts
+reports/
+screenshots/
+
+# IDE/editor junk
+.idea/
+.vscode/
